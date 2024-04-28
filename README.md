@@ -1,1 +1,1 @@
-<p style="font-size: 80px;">Effectiveness and efficiency: label-aware hierarchical subgraph learning for protein-protein interaction</p>
+<font size="50">Effectiveness and efficiency: label-aware hierarchical subgraph learning for protein-protein interaction</font>
